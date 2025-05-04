@@ -1,5 +1,6 @@
-<img src="./images/haskell.jpg" width=320> &nbsp; ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon-Hostettler&count_private=true&theme=tokyonight&show_icons=true)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Hostettler&layout=compact&theme=tokyonight)
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon-Hostettler&count_private=true&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Hostettler&layout=compact&theme=tokyonight)
+<!--<img src="./images/haskell.jpg" width=320> &nbsp; 
 
 **Simon-Hostettler/Simon-Hostettler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
